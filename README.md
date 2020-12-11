@@ -1,4 +1,4 @@
-# MIT Deep Learning
+# Deep Learning
 
 <a href="https://deeplearning.mit.edu/"><img src="https://deeplearning.mit.edu/files/images/mit_deep_learning.png"></a>
 
